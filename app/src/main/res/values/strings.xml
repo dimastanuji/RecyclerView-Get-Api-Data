@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">stap2</string>
+    <string name="halo_text">Hallo</string>
+    <string name="text_in_fragmen">I am fragment</string>
+</resources>
